@@ -69,6 +69,9 @@ namespace DnD
                     Console.WriteLine("Unfortunately, you have been defeated by the dragon.");
                     Console.Write(gameOver);
                 }
+            }else if (action != null && action.ToLower() == "rest")
+            {
+                Console.WriteLine("Thank you for playing! Have a good rest.");
             }
         }
     }

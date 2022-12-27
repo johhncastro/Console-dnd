@@ -1,0 +1,15 @@
+/Users/johncastro/Desktop/c# programs/d&d/bin/Debug/net7.0/d&d
+/Users/johncastro/Desktop/c# programs/d&d/bin/Debug/net7.0/d&d.deps.json
+/Users/johncastro/Desktop/c# programs/d&d/bin/Debug/net7.0/d&d.runtimeconfig.json
+/Users/johncastro/Desktop/c# programs/d&d/bin/Debug/net7.0/d&d.dll
+/Users/johncastro/Desktop/c# programs/d&d/bin/Debug/net7.0/d&d.pdb
+/Users/johncastro/Desktop/c# programs/d&d/obj/Debug/net7.0/d&d.csproj.AssemblyReference.cache
+/Users/johncastro/Desktop/c# programs/d&d/obj/Debug/net7.0/d&d.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johncastro/Desktop/c# programs/d&d/obj/Debug/net7.0/d&d.AssemblyInfoInputs.cache
+/Users/johncastro/Desktop/c# programs/d&d/obj/Debug/net7.0/d&d.AssemblyInfo.cs
+/Users/johncastro/Desktop/c# programs/d&d/obj/Debug/net7.0/d&d.csproj.CoreCompileInputs.cache
+/Users/johncastro/Desktop/c# programs/d&d/obj/Debug/net7.0/d&d.dll
+/Users/johncastro/Desktop/c# programs/d&d/obj/Debug/net7.0/refint/d&d.dll
+/Users/johncastro/Desktop/c# programs/d&d/obj/Debug/net7.0/d&d.pdb
+/Users/johncastro/Desktop/c# programs/d&d/obj/Debug/net7.0/d&d.genruntimeconfig.cache
+/Users/johncastro/Desktop/c# programs/d&d/obj/Debug/net7.0/ref/d&d.dll
